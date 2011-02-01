@@ -53,7 +53,7 @@ h1{color: #666666;font-size: 35px;text-shadow: #000000;
 font-weight: bold;
 margin-top: 12px;
 text-align:right;}
-h2{color: #0099FF;; font-size: 1.3em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
+h2{color: #0099FF; font-size: 1.3em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
 text-align:right;}
 
       img {
@@ -103,17 +103,24 @@ text-align:right;}
       
       footer {
       	background-color:#205791;
-        font-size: 20px; 
+		 height: 40px;
+        font-size: 14px; 
 		color:white;
         text-align:center;
+		vertical-align:middle;
+		
 		-moz-border-radius-bottomleft: 15px;
 		-moz-border-radius-bottomright: 15px;
 		border-bottom-left-radius: 15px;
 		border-bottom-right-radius: 15px;
 		-ms-border-radius-bottomleft: 15px;
       }
-
-    
+ 
+ 	
+a:link {color: #ffffff; text-decoration: none; }
+a:active {color: #ffffff; text-decoration: none; }
+a:visited {color: #ffffff; text-decoration: none; }
+a:hover {color: #0099FF; text-decoration: none; }
 	  
 	  
 #boxHead
@@ -148,7 +155,7 @@ font-family: arial,sans-serif;
 #containerBody
 {
 height:120px;
-background-color:#CCCCCC;
+background-color:#a5c7e7;
 -moz-border-radius-bottomleft: 15px;
 -moz-border-radius-bottomright: 15px;
 border-bottom-left-radius: 15px;
