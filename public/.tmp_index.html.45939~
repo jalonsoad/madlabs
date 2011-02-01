@@ -1,0 +1,113 @@
+<!DOCTYPE html> <!-- HTML5 Doctype -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es" id="madlabs.es">
+  <head>
+    <title>Madlabs Soluciones Internet</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="copyright" content="Copyright (c) 2011 MADLABS, Soluciones de internet. Todos los derechos reservados.">
+    <meta name="author" content="Julio Alonso">
+    
+
+<link rel="stylesheet" href="stylesheets/blueprint/screen.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="stylesheets/blueprint/print.css" type="text/css" media="print">	
+<!--[if lt IE 8]><link rel="stylesheet" href="/stylesheets/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+
+
+<link href="stylesheets/madlabs.css" rel="stylesheet" media="all" />
+
+<link href='http://fonts.googleapis.com/css?family=Copse' rel='stylesheet' type='text/css'>
+
+<LINK href="/stylespecial.css" rel="stylesheet" type="text/css">
+
+	
+	
+
+    <!-- Just to give MSIE a minimum HTML5 support -->
+    <!--[if IE]>
+      <script>
+        document.createElement('header');
+        document.createElement('footer');
+        document.createElement('section');
+        document.createElement('aside');
+        document.createElement('nav');
+        document.createElement('article');
+      </script>
+    <![endif]-->
+<script type="text/javascript" src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2852596-11']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </head>
+  
+  <body>
+  
+  
+<div class="container showgrid" >
+     <header>
+		  <div class="span-6 prepend-2 p">
+              
+              	<img title="MadLabs" src="images/madlabs.gif"  alt="Madlabs">
+				<a href="http://www.madlabs.es/"></a>
+          </div>
+		  <div class="span-16 last">
+              	<p>
+				  <h1><span class="caps">Soluciones</span>  para su negocio</h1>
+				  </p>
+          </div>
+       </header>
+
+	<article>
+          <div class="span-16 prepend-4">
+					  
+					        <section>n
+					        Section 1 del main content	
+					         </section>
+					  
+					        <section>
+					        Section 2 del main content
+					         </section>
+			</div>		  
+	</article>
+	
+	<aside>	 
+          <div class="span-4 last">
+			     
+			        <section>
+			        	Section del Side bar
+			           </section>
+			  
+			</div> <!-- Del side bar-->
+	</aside>
+
+          
+	 <footer>  
+		  <!-- footer-->
+		   <div class="span-24 last" id="pie">
+              
+				        
+				        <a href="http://www.madlabs.es/">MadLabs</a> |
+				        <a href="http://www.madlabs.es/">Contacto</a>
+						</p>
+     			
+          </div>
+	</footer>	  
+		  
+</div> <!-- Del container-->
+      
+  
+  </body>
+</html>
+
+
