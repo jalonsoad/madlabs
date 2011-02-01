@@ -53,10 +53,10 @@ h1{color: #666666;font-size: 35px;text-shadow: #000000;
 font-weight: bold;
 margin-top: 12px;
 text-align:right;}
-h2{color: #0099FF; font-size: 1.3em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
+h2{color: #007bc1; font-size: 1.9em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
 text-align:right;}
 
-h3{color: #0099FF; font-size: 1.8em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
+h3{color: #007bc1; font-size: 1.5em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
 text-align:left;}
 
       img {
@@ -81,16 +81,19 @@ text-align:left;}
       article {
         float: center;
 		height:240px;
+		margin-top: 20px;
       	/*border: 2px solid red;*/
       }
 
       article img {
         width: 170px;
         height: 170px;
+		
       }
 	 
       aside {
         font-size: 14px;
+		margin-top: 20px;
         /*height:190px;
       	border: 2px solid aqua;*/
       }
@@ -105,16 +108,17 @@ text-align:left;}
 		}
 		section ul li {
         font-size: 22px; 
-		color:#a5c7e7;
+		color:#666666;
         text-align:left;
 		margin-left:20px;
+		margin-bottom: .8em;
 		vertical-align:middle;
       }
       
      
       
       footer {
-      	background-color:#205791;
+      	background-color:#007bc1;
 		height: 50px;
         font-size: 14px; 
 		color:white;
@@ -138,7 +142,7 @@ a:hover {color: #0099FF; text-decoration: none; }
 #boxHead
 {
 height: 25px;
-background-color:#205791;
+background-color:#007bc1;
 
 /*
  * width: 230px;
