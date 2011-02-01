@@ -108,7 +108,7 @@ text-align:left;}
       }
 	 
       aside {
-        font-size: 14px;
+        font-size: 15px;
 		margin-top: 20px;
         /*height:190px;
       	border: 2px solid aqua;*/
@@ -124,7 +124,7 @@ text-align:left;}
       	/*border: 2px dashed #B33C00;*/
 		}
 		section ul li {
-        font-size: 1.5em; 
+        font-size: 15px;
 		color:#666666;
         text-align:left;
 		margin-left:20px;
@@ -137,7 +137,7 @@ text-align:left;}
       footer {
       	background-color:#007bc1;
 		height: 50px;
-        font-size: 14px; 
+        font-size: 13px; 
 		color:white;
         text-align:center;
 		vertical-align:middle;
