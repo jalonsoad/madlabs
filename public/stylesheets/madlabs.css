@@ -49,11 +49,11 @@ body {
 
   
       
-h1{color: #666666;font-size: 35px;text-shadow: #000000;
+h1{color: #666666;font-size: 2.8em;;text-shadow: #000000;
 font-weight: bold;
 margin-top: 12px;
 text-align:right;}
-h2{color: #007bc1; font-size: 1.9em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
+h2{color: #007bc1; font-size: 2.0em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
 text-align:right;}
 
 h3{color: #007bc1; font-size: 1.5em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
@@ -104,10 +104,11 @@ text-align:left;}
 
       section {
       	float:left;
+		margin-top: 20px;
       	/*border: 2px dashed #B33C00;*/
 		}
 		section ul li {
-        font-size: 22px; 
+        font-size: 1.5em; 
 		color:#666666;
         text-align:left;
 		margin-left:20px;
@@ -124,12 +125,14 @@ text-align:left;}
 		color:white;
         text-align:center;
 		vertical-align:middle;
-		
 		-moz-border-radius-bottomleft: 15px;
 		-moz-border-radius-bottomright: 15px;
 		border-bottom-left-radius: 15px;
 		border-bottom-right-radius: 15px;
 		-ms-border-radius-bottomleft: 15px;
+      }
+	  footer p {
+		padding-top: 1.2em;
       }
  
  	
