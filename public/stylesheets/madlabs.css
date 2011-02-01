@@ -179,7 +179,7 @@ a:visited {color: #ffffff; text-decoration: none; }
 a:hover {color: #0099FF; text-decoration: none; }
 	  
 	  
-#boxHead
+.boxHead
 {
 height: 25px;
 background-color:#007bc1;
@@ -208,7 +208,7 @@ font-family: arial,sans-serif;
 
 
 
-#containerBody
+.containerBody
 {
 height:120px;
 background-color:#a5c7e7;
