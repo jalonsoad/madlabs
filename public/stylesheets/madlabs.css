@@ -49,14 +49,30 @@ body {
 
   
       
-h1{color: #666666;font-size: 2.8em;;text-shadow: #000000;
+h1	{
+color: #666666;
+font-size: 2.8em;
 font-weight: bold;
 margin-top: 12px;
-text-align:right;}
-h2{color: #007bc1; font-size: 2.0em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
+height: 38px;
 text-align:right;}
 
-h3{color: #007bc1; font-size: 1.5em; text-shadow: #000000;font-weight: bold;margin-bottom: 0pt;line-height: 30px;
+h2	{
+color: #007bc1;
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 0pt;
+line-height: 30px;
+height: 38px;
+text-align:right;}
+
+h3	{
+color: #007bc1;
+font-size: 1.5em;
+font-weight: bold;
+margin-bottom: 0pt;
+line-height: 30px;
+height: 38px;
 text-align:left;}
 
       img {
