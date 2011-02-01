@@ -102,7 +102,8 @@ display:inline-bloc
       article {
         float: center;
 		height:240px;
-		margin-top: 5px;
+		margin-top: -20px;
+		margin-left: 15px;
       	/*border: 2px solid red;*/
       }
 
@@ -125,7 +126,7 @@ display:inline-bloc
 
       section {
       	float:left;
-		margin-top: 20px;
+		margin-top: 10px;
       	/*border: 2px dashed #B33C00;*/
 		}
 		section ul li {
