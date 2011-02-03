@@ -76,9 +76,7 @@
 		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fplatform&amp;width=240&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:252px; height:62px;" allowTransparency="true"></iframe>
 	</div>
 	<div class="span-1 prepend-2 last">
-		
-		<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="mad_labs" data-related="mad_labs:Servicios de internet" data-lang="es">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-		
+				<a href="http://www.twitter.com/mad_labs/"><img src="images/Twitter-icon.png"  height=40 width=40 alt="twitter" title="Twitter"/></a>
 	</div>
 	
 	<div class="span-14 prepend-2">
