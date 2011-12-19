@@ -61,7 +61,7 @@ function hideItem(divID) {
   
   <body>
   
-<div class="container showgrid" >
+<div class="container" >
 	
 	<div class="span-4 prepend-2">
      	<header>
@@ -102,7 +102,7 @@ function hideItem(divID) {
 				<section> 
 						<ul> Nos diferencia:
 	                       	<li>Desarrollamos productos <strong>web</strong> que verdaderamente va a utilizar.</li>
-							<li>Incluimos solamente lo imprescindible, completamente <strong>personalizados</strong>.</li>
+							<li>Incluimos solamente lo imprecindible, completamente <strong>personalizados</strong>.</li>
 							<li>Construcción incremental, vea como crece su producto.</li>
 							<li>Ahorro de costes desde el primer día, <strong>sin costes ocultos</strong>.</li>
 							<li>No tiene que instalar nada, todo en la nube.</li>
@@ -120,7 +120,7 @@ function hideItem(divID) {
 			<div class="boxHead">Servicios que ofrecemos
                        <div class="containerBody">
                        	<ul>
-	                       	<li>Prototipado rápido de aplicaciones</li>
+	                       	<li>Proptotipado rápido de aplicaciones</li>
 							<li>Software como servicio-SaaS</li>
 							<li>Aplicaciones en la Nube</li>
 							<strong>Metodología ágil SCRUM </strong>
@@ -157,7 +157,7 @@ function hideItem(divID) {
 	<div class="span-6 last">
 		<aside>
 			<div class="boxHead">Tecnologias que utilizamos
-				<div class="containerBody">
+			<div class="containerBody">
 						<ul>
 	                       	<li>Ruby On Rails</li>
 							<li>HTML5</li>
@@ -165,25 +165,28 @@ function hideItem(divID) {
 							<li>JQuery</li>
 							<strong>Las últimas tecnologías</strong>
 						</ul>
-             	</div>
+						
+                        </div>
+                      
 			</div>
 
 		</aside>
 	</div>	
           
 	
-	<!-- caja azul	-->
+	<!-- caja azul	
 	<div class="span-20 prepend-2 last">
 			<div id="rbb_blue"  class="rbb_blue">
 				
 				<div class="close_element">
 			 			<a href="javascript:hideItem('rbb_blue');">Cerrar</a>
 				</div>
-			 	
+			 	<a href="/dashoard">Sube a lo más alto</a> e incrementa tu popularidad!
+				Aqui vamos a poner un texto, el cual tb podemos poner links y un botón de cerrar
 		</div>
 		
 	</div>	
-	
+	-->
 	
 	 <div class="span-20 prepend-2 last">
 	 	<footer> 
